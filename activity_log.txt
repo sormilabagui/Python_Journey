@@ -1,0 +1,2 @@
+Python advanced concepts practiced today.
+Context manager example executed successfully.
