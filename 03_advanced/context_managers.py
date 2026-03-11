@@ -19,4 +19,4 @@ with FileLogger("activity_log.txt") as log:
     log.write("Python advanced concepts practiced today.\n")
     log.write("Context manager example executed successfully.\n")
 
-print("Logging completed")
+print("Logging completed...")
