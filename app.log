@@ -1,0 +1,5 @@
+2026-03-14 23:35:44,844 - DEBUG - Debugging information
+2026-03-14 23:35:44,845 - INFO - Program started successfully
+2026-03-14 23:35:44,845 - WARNING - This is a warning message
+2026-03-14 23:35:44,845 - ERROR - An error occurred
+2026-03-14 23:35:44,845 - CRITICAL - Critical issue detected
