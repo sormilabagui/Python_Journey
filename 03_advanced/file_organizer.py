@@ -1,6 +1,10 @@
 # file_organizer.py
 # Organizes files in a folder by file type
 
+
+# NOTE:
+# This script organizes files by type.
+# Use a test folder before running on important directories.
 import os
 import shutil
 
