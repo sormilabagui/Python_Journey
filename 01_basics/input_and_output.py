@@ -1,9 +1,9 @@
 #user input
 
-name= input("what is ur name? :")
-age = int(input("what is ur age?:"))
+name= input("what is your name? :")
+age = int(input("what is youur age?:"))
 year = 2026 - age
-print(f"hi {name} u r bone in year {year}")
+print(f"hi {name} You are born in year {year}")
 
 #program of area of rectangle taking length and breadth from user
 # area = l*b
